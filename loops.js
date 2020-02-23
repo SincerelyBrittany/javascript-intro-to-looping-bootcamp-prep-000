@@ -48,6 +48,7 @@ function whileLoop (num){
  while (num>0) {
   console.logconsole.log(--num)
 }
+return (d)
 }
 
 
