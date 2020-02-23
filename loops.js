@@ -64,13 +64,3 @@ return "done";
   
 
 
-
-  // 3) loops
-  //     doWhileLoop(num)
-  //       console logs "I run once regardless." 1 time when passed an integer of0 as a parameter.:
-
-
-  // 4) loops
-  //     doWhileLoop(num)
-  //       console logs "I run once regardless." 10 times when passed an integer of 10 as a parameter.:
-  
