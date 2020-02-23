@@ -66,6 +66,7 @@ return "done";
   
   function doWhileLoop (theInt){
     function incrementVariable() {
+      
     do {
       console.log("I run once regardless.");
     } while (incrementVariable() < theInt);
