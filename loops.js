@@ -40,6 +40,8 @@ return array
 }
 
 
+// Create a function called whileLoop in loops.js. The function should take a number as an argument. Using a while loop, count down (using console.log) from the passed in number to 0. Then return the string 'done'.
+
   // 2) loops
   //     whileLoop(n)
   //       counts down from n to 0:
