@@ -45,8 +45,8 @@ return array
   //       counts down from n to 0:
 
 function whileLoop (num){
- 
-while (--num) {
+ while (num>0) {
+   
   console.log('done');
 }
 }
