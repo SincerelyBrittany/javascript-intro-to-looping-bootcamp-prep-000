@@ -64,15 +64,11 @@ return "done";
   //     doWhileLoop(num)
   //       console logs "I run once regardless." 10 times when passed an integer of 10 as a parameter.:
   
-  function doWhileLoop (_int){
+  function doWhileLoop (theInt){
     function incrementVariable() {
-      i = i + 1;
-      return i;
-    }
- 
     do {
       console.log("I run once regardless.");
-    } while (incrementVariable() < _int);
+    } while (incrementVariable() < theInt);
   }
   
 
